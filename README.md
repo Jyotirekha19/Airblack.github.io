@@ -17,7 +17,7 @@ Tailwind CSS: For efficient and flexible styling, allowing for rapid development
 ## Step 1: Understanding the Prototype
 The first step involved a thorough analysis of the Figma prototype. I paid close attention to every detail, ensuring I understood the design specifications, user interactions, and overall aesthetic goals. This stage was crucial for laying a solid foundation for the development process.
 
-You can view the Figma prototype here.
+You can view the Figma prototype [here](https://www.figma.com/design/fPFs5AhnieUc6mS5k18cuJ/Airblack?node-id=0-1&t=sXvDQ1DbXEYmRkuI-0).
 
 ## Step 2: Setting Up the Project
 With a clear understanding of the design, I set up the project environment:
