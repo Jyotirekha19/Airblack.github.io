@@ -2,7 +2,7 @@
 # **Introduction**
 Welcome to my project showcase! I’m excited to present to you an application I developed for Airblack, following a detailed Figma prototype provided by the organization. This project is a testament to my skills in React and Tailwind CSS, and I’m eager to walk you through the journey of its creation.
 
-You can view the live project here.
+You can view the live project [Airblack website](https://665b54ff6690d57c81cfb949--airblack.netlify.app/).
 
 # **The Project**
 The Objective
@@ -55,8 +55,8 @@ User Experience: The overall user experience is intuitive and aligns with the de
 # **Conclusion**
 This project was a challenging yet rewarding experience. It not only allowed me to showcase my skills in React and Tailwind CSS but also demonstrated my ability to follow design specifications meticulously and deliver a product that meets client expectations.
 
-You can view the live project here.
+You can view the live project [Airblack website](https://665b54ff6690d57c81cfb949--airblack.netlify.app/).
 
-You can view the Figma prototype here.
+You can view the Figma prototype [here](https://www.figma.com/design/fPFs5AhnieUc6mS5k18cuJ/Airblack?node-id=0-1&t=sXvDQ1DbXEYmRkuI-0).
 
 I hope you enjoyed this walkthrough of my work. Thank you for taking the time to explore my project!
