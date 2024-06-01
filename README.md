@@ -1,10 +1,10 @@
 
-Introduction
+**Introduction**
 Welcome to my project showcase! I’m excited to present to you an application I developed for Airblack, following a detailed Figma prototype provided by the organization. This project is a testament to my skills in React and Tailwind CSS, and I’m eager to walk you through the journey of its creation.
 
 You can view the live project here.
 
-The Project
+**The Project**
 The Objective
 Airblack approached me with a clear objective: to translate their Figma design into a fully functional, responsive web application. The goal was to create a seamless user experience that accurately reflects the vision laid out in the prototype.
 
@@ -13,7 +13,7 @@ To bring this project to life, I utilized:
 
 React: For building the user interface with a component-based architecture, ensuring scalability and maintainability.
 Tailwind CSS: For efficient and flexible styling, allowing for rapid development while maintaining a high degree of customization and responsiveness.
-Development Process
+**Development Process**
 Step 1: Understanding the Prototype
 The first step involved a thorough analysis of the Figma prototype. I paid close attention to every detail, ensuring I understood the design specifications, user interactions, and overall aesthetic goals. This stage was crucial for laying a solid foundation for the development process.
 
@@ -49,7 +49,7 @@ Extensive testing was conducted to ensure:
 Cross-browser Compatibility: The app performs consistently across different web browsers.
 Performance Optimization: The app loads quickly and performs efficiently, even on lower-end devices.
 User Experience: The overall user experience is intuitive and aligns with the design goals.
-Conclusion
+**Conclusion**
 This project was a challenging yet rewarding experience. It not only allowed me to showcase my skills in React and Tailwind CSS but also demonstrated my ability to follow design specifications meticulously and deliver a product that meets client expectations.
 
 You can view the live project here.
