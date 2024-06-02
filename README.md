@@ -30,7 +30,7 @@ Breaking down the prototype, I identified the individual components required:
 Implemented a responsive navigation bar featuring links to the "About the Organization" section.
 ### Header Sections: 
 Designed a header section that includes a form for users to fill out in order to enter the app.
-### Foote:
+### Footer:
 Added a footer section with links to various social media platforms.
 
 ## Step 4: Styling with Tailwind CSS
