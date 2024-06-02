@@ -26,14 +26,13 @@ Initialized a new React project using Create React App.
 Configured Tailwind CSS for styling, ensuring it was properly integrated with the React setup.
 ## Step 3: Building the Components
 Breaking down the prototype, I identified the individual components required:
-
 ### Navigation Bar:
-Implemented a responsive navigation bar with dynamic elements based on the design.
-Hero Section: Developed a visually appealing hero section, incorporating animations and interactive elements.
-### Feature Sections: 
-Created modular components for different feature sections, ensuring consistency and reusability across the application.
-### Footer
-: Built a comprehensive footer with all necessary links and information, adhering to the design specifications.
+Implemented a responsive navigation bar featuring links to the "About the Organization" section.
+### Header Sections: 
+Designed a header section that includes a form for users to fill out in order to enter the app.
+### Foote:
+Added a footer section with links to various social media platforms.
+
 ## Step 4: Styling with Tailwind CSS
 Using Tailwind CSS, I styled each component meticulously:
 
